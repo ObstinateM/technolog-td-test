@@ -1,5 +1,6 @@
 class CartePizzeria:
     def __init__(self):
+        raise Exception("Not implemented yet")
         self.pizzas = []
 
     def is_empty(self):
